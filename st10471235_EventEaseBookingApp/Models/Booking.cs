@@ -1,6 +1,6 @@
-namespace st10471235_EventEaseBookingApp.Models;
 
 using System.ComponentModel.DataAnnotations;
+namespace st10471235_EventEaseBookingApp.Models
 
 {
     public class Booking
