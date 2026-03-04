@@ -1,0 +1,7 @@
+﻿services:
+  st10471235_eventeasebookingapp:
+    image: st10471235_eventeasebookingapp
+    build:
+      context: .
+      dockerfile: st10471235_EventEaseBookingApp/Dockerfile
+
