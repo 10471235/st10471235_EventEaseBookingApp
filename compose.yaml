@@ -1,7 +1,14 @@
 ﻿services:
-  st10471235_eventeasebookingapp:
-    image: st10471235_eventeasebookingapp
-    build:
-      context: .
-      dockerfile: st10471235_EventEaseBookingApp/Dockerfile
+  db:
+    image: mcr.microsoft.com/azure-sql-edge:latest
+    container_name: eventease-db
+    environment:
+      - ACCEPT_EULA=1
+      - MSSQL_SA_PASSWORD=Str0ng!Passw0rd123
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql_data:/var/opt/mssql
 
+volumes:
+  sql_data:
