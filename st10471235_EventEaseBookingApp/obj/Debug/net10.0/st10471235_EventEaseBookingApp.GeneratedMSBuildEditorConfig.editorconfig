@@ -30,6 +30,66 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/Bookings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va2luZ3MvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/Bookings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va2luZ3MvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/Bookings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va2luZ3MvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/Bookings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va2luZ3MvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/Bookings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va2luZ3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/CustomerRequests/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJSZXF1ZXN0cy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/CustomerRequests/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJSZXF1ZXN0cy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/CustomerRequests/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJSZXF1ZXN0cy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/CustomerRequests/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJSZXF1ZXN0cy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/CustomerRequests/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJSZXF1ZXN0cy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/Events/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXZlbnRzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/Events/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXZlbnRzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/Events/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXZlbnRzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/Events/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXZlbnRzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/Events/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXZlbnRzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -44,6 +104,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/Venues/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVudWVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/Venues/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVudWVzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/Venues/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVudWVzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/Venues/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVudWVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/Venues/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVudWVzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/macbook/RiderProjects/st10471235_EventEaseBookingApp/st10471235_EventEaseBookingApp/Views/_ViewImports.cshtml]
