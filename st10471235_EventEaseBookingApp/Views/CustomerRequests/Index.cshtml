@@ -1,0 +1,89 @@
+@model IEnumerable<st10471235_EventEaseBookingApp.Models.CustomerRequest>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RequestedStart)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RequestedEnd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RequestedEventName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Booking)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedAt)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Venue.Location)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RequestedStart)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RequestedEnd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RequestedEventName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Booking.BookingId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedAt)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CustomerRequestId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CustomerRequestId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CustomerRequestId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
